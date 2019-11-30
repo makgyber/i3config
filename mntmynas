@@ -1,0 +1,1 @@
+mount -t nfs 192.168.0.224:/volume1/transfer /home/jon/nas
