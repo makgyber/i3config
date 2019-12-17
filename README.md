@@ -13,7 +13,7 @@ Notes:
 - copy morc_menu to ./config/morc_menu/
 - for trackpad natural scrolling, copy 30-touchpad.conf to /etc/X11/xorg.conf.d/
 - install qmk build tools:
-`sudo pacman -S base-devel gcc unzip wget zip avr-gcc avr-binutils avr-libc dfu-util arm-none-eabi-gcc arm-none-eabi-binutils arm-none-eabi-newlib git dfu-programmer dfu-util`
+`sudo pacman -S base-devel gcc unzip wget zip avr-gcc avr-binutils avr-libc dfu-util arm-none-eabi-gcc arm-none-eabi-binutils arm-none-eabi-newlib git dfu-programmer dfu-util avrdude`
 - set up git account
 `
 git config --global user.email "makgyber@gmail.com"
